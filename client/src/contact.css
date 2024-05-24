@@ -1,0 +1,25 @@
+/* CSS FILE FOR CONTACT.CSS */
+
+/* Background Color */
+body {
+    background-color: LightBlue;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  header > hgroup {
+    background-color: #332;
+    color: white;
+  }
+  
+  .activelink {
+    font-weight: bold;
+  }
+  
